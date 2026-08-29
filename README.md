@@ -1,1 +1,1 @@
-# -Development-board-FPGA-and-testing-real-time-FFT-2048-points-Radix-2-algorithm-DIT-for-DSP
+# FPGA development board and real-time testing of the 2048-point FFT algorithm (Radix-2) for DSP
